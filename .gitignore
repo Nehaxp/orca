@@ -1,3 +1,4 @@
 .gitignore
 Test.ps1
 /.vs/slnx.sqlite
+/.vs/OCRA/v16/.suo
